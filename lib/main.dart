@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                   "asset/Screenshot (37).png"
                   //"asset/Screenshot (35).png"
               ),
-                  //fit: BoxFit.contain,
+                  fit: BoxFit.contain,
                  // repeat: ImageRepeat.repeat,
             ),
           ),
